@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a Ethical-Hacker & College Student in India</h1>
-<h3 align="center">I am currently pursuing OSCP and I share my Knowledge on YouTube</h3>
+<h1 align="left">Hi 👋, I'm a Ethical-Hacker & College Student in India</h1>
+<h3 align="left">I am currently pursuing OSCP and I share my Knowledge on YouTube</h3>
 
 - 📝 How To Learn Hacking? [https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56](https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56)
 
