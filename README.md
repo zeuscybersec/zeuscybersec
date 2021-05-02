@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm a Penetration Tester & College Student in India</h1>
-<h3 align="left">⚡I am currently pursuing OSCP and I share my Knowledge on my 🔴YouTube Channel-ZeusCybersec</h3>
+<h3 align="left">⚡I am currently pursuing OSCP and I share Knowledge on my 🔴YouTube Channel-ZeusCybersec</h3>
 
 - 💻 How I Learned Hacking? (https://bit.ly/3xJYd7d)
 
