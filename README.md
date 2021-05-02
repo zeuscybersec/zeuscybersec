@@ -9,8 +9,6 @@
 
 - 💙 Fun fact- I like Gaming & watching Movies/Tv Series
 
-![1*ePYRrTmNxnAUk_Ns4g8WUw](https://user-images.githubusercontent.com/76398810/116828531-d4dea980-ab8e-11eb-901e-5e780ebb4b43.png)
-
 ![Hacker (11)](https://user-images.githubusercontent.com/76398810/116827568-1c623700-ab89-11eb-86da-a7685ab9d658.gif)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sparsh jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sparsh jaiswal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sparsh jaiswal" target="blank"><img align="center" src="<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" alt="sparsh jaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/sparsh_jaiswal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sparsh_jaiswal_" height="30" width="40" /></a>
 <a href="https://medium.com/@zeuscybersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@zeuscybersec" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zeuscybersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="zeuscybersec" height="30" width="40" /></a>
