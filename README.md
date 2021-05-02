@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm a Ethical-Hacker & College Student in India</h1>
 <h3 align="left">I am currently pursuing OSCP and I share my Knowledge on YouTube</h3>
 
-![](https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif)
+![](https://cutewallpaper.org/download.php?file=/21/lighting-bolt-gif/Pin-on-Papadam.gif)
 
 - 📝 How To Learn Hacking? [https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56](https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56)
 
