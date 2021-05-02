@@ -3,7 +3,7 @@
 
 ![Hacker (11)](https://user-images.githubusercontent.com/76398810/116827568-1c623700-ab89-11eb-86da-a7685ab9d658.gif)
 
-- 💻 How To Learn Hacking? ![](https://bit.ly/3xJYd7d)
+- 💻 How To Learn Hacking? [](https://bit.ly/3xJYd7d)
 
 - 📝 I write articles/writeups on Medium [https://sparshjazz.medium.com/](https://sparshjazz.medium.com/)
 
