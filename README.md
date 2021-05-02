@@ -1,15 +1,15 @@
-<h1 align="left">Hi 👋, I'm a Ethical-Hacker & College Student in India</h1>
-<h3 align="left">I am currently pursuing OSCP and I share my Knowledge on YouTube</h3>
+<h1 align="left">Hi 👋, I'm a Penetartion Tester & College Student in India</h1>
+<h3 align="left">⚡I am currently pursuing OSCP and I share my Knowledge on YouTube</h3>
 
 ![](https://cutewallpaper.org/download.php?file=/21/lighting-bolt-gif/Pin-on-Papadam.gif)
 
-- 📝 How To Learn Hacking? [https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56](https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56)
+- 💻 How To Learn Hacking? [https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56](https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56)
 
 - 📝 I write articles/writeups on Medium [https://sparshjazz.medium.com/](https://sparshjazz.medium.com/)
 
 - 📫 You can Reach me at **zeuscybersec@gmail.com**
 
-- ⚡ Fun fact **I like Gaming, watching Movies/Tv Series**
+- ⚡ Fun fact **I like Gaming & watching Movies/Tv Series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
