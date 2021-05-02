@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm a Penetration Tester & College Student in India</h1>
 <h3 align="left">⚡I am currently pursuing OSCP and I share my Knowledge on my 🔴YouTube Channel-ZeusCybersec</h3>
 
-![](https://i.gifer.com/9Ea9.gif)
+![](https://www.deviantart.com/junguler/art/Defalt-bw-ascii-01-568268888)
 
 
 - 💻 How To Learn Hacking? [https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56](https://sparshjazz.medium.com/how-to-learn-hacking-my-path-692fccd42d56)
