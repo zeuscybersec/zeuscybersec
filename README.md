@@ -8,7 +8,12 @@
 - 📣 You can Reach me at **zeuscybersec@gmail.com**
 
 - 💙 Fun fact- I like Gaming & watching Movies/Tv Series
-- 
+
+
+![glitch_2019-7-26_14-30-25-min](https://user-images.githubusercontent.com/76398810/116828313-6ea55700-ab8d-11eb-9d1c-33948370e0c5.gif)
+
+![3c403336ee492fc7a1f5d8ee5d0f249e3163d447r1-443-250_hq](https://user-images.githubusercontent.com/76398810/116828318-782ebf00-ab8d-11eb-9aa7-2bca7704ae3e.gif)
+
 ![f0f6486554ad514a424a37b56d58d81f](https://user-images.githubusercontent.com/76398810/116828167-8203f280-ab8c-11eb-9177-9eec627fc229.png)
 
 ![LYOzt4](https://user-images.githubusercontent.com/76398810/116828171-87f9d380-ab8c-11eb-81b6-1c4680b31b41.jpg)
