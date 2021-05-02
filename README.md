@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm a Penetration Tester & College Student in India</h1>
 <h3 align="left">⚡I am currently pursuing OSCP and I share my Knowledge on my 🔴YouTube Channel-ZeusCybersec</h3>
 
-![](![image](https://user-images.githubusercontent.com/76398810/116825555-783eb700-abad-11eb-9392-7da59f8ccc20.jpg)
+![](![image](https://user-images.githubusercontent.com/76398810/116825608-a7edbf00-abad-11eb-903d-e78e112eb995.png)
+
+
 
 
 
