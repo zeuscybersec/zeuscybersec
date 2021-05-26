@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm a Penetration Tester & Student in India</h1>
+<h1 align="left">Hi 👋, I'm a Penetration Tester in India</h1>
 <h3 align="left">⚡I am currently pursuing OSCP and I share Knowledge on my 🔴YouTube Channel-ZeusCybersec</h3>
 
 - 🛡️ Check Out Trident Security https://tridentsec.io/
