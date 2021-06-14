@@ -3,8 +3,6 @@
 
 - 🛡️ Check Out Trident Security https://tridentsec.io/
 
-- 💻 How I Learned Hacking? **https://bit.ly/3xJYd7d**
-
 - 📝 I write articles/writeups on Medium https://sparshjazz.medium.com/about-me-zeus-4fc8b44c8f86
 
 - 📣 You can Reach me at **zeuscybersec@gmail.com**
