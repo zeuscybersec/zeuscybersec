@@ -4,15 +4,12 @@
 
 ## ⚡I'm a Penetration Tester in India currently pursuing OSCP
 
-* I'm currently working with information security.
-* Main programming languages: C and Python.
-* Certifications: CEH | OSCP (currently pursuing)
 * Research interests: information security, privacy, malware analysis, Red Teaming
-* Other skills: Network penetration testing, Linux, Docker, Web-App Pentesting, 
-                Active Directory, Git, SQL, Developing Hacking Tools using Python
+* Main programming languages: C and Python.
+* Other skills: Network & Web App Pentesting, Active Directory, Developing Hacking Tools using Python
 * Check Out Trident Security https://tridentsec.io/
 * I write CyberSecurity Articles on Medium https://sparshjazz.medium.com/
-* 🔗 [Website](https://crhenr.xyz).
+* 🔗 [Website](https://sparshjazz.medium.com/z-e-u-s-c-y-b-e-r-s-e-c-5e6815cebd89).
 
 <p align="center">
     <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
