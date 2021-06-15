@@ -2,7 +2,7 @@
 <h3 align="left">⚡I am currently pursuing OSCP and I share Knowledge on my 🔴YouTube Channel-ZeusCybersec</h3>
 ### Hi, I'm Cristian.
 
-<img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height="250">
+<img align="right" src="https://sparshjazz.medium.com/the-official-future-merch-of-zeus-89ef48759a60" height="250">
 
 <a href="https://ko-fi.com/Z8Z524EK2" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=2" border="0" alt="Buy Me a Coffee at ko-fi.com" align="right"/></a>
 
