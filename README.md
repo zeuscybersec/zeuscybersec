@@ -1,4 +1,4 @@
-### Hi, I'm Sparsh.
+### Hi, I'm Sparsh Jaiswal
 
 <img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height="250">
 
