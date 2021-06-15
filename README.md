@@ -15,7 +15,7 @@
     <a href="zeuscybersec@gmail.com"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://in.linkedin.com/in/sparsh-jaiswal-030b421a6"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/linkedin_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://sparshjazz.medium.com/"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/medium_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/crhenr"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/twitter_logo.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/SparshJ85681641"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/twitter_logo.svg"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
