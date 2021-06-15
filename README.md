@@ -13,7 +13,7 @@
 * 🔗 [MY WEBSITE](https://sparshjazz.medium.com/z-e-u-s-c-y-b-e-r-s-e-c-5e6815cebd89).
 
 <p align="center">
-    <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="/gmail_logo.svg"></a>&nbsp;&nbsp;
+    <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="README.md/gmail_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/crhenr"><img height="35" src="imgs/linkedin_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@crhenr"><img height="35" src="imgs/medium_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/crhenr"><img height="35" src="imgs/twitter_logo.svg"></a>&nbsp;&nbsp;
