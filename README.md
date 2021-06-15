@@ -4,7 +4,7 @@
 
 ## ⚡I'm a Penetration Tester in India currently pursuing OSCP
 
-* Research interests: information security, privacy, malware analysis, Red Teaming
+* Research interests: information security, privacy, malware analysis
 * I make Cyber Security Videos on my YouTube Channel - ZeusCybersec
 * Main programming languages: C and Python.
 * Other skills: Network & Web App Pentesting, Active Directory, Developing Hacking Tools using Python, Docker, Linux, Git, SQL
