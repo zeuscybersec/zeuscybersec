@@ -2,7 +2,7 @@
 
 <img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height="250">
 
-## I'm a student and R&D developer
+## ⚡I'm a Penetration Tester in India currently pursuing OSCP
 
 * I'm currently working with information security.
 * Main programming languages: C, Java and Python.
