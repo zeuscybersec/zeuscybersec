@@ -6,10 +6,10 @@
 
 * Research interests: information security, privacy, malware analysis, Red Teaming
 * Main programming languages: C and Python.
-* Other skills: Network & Web App Pentesting, Active Directory, Developing Hacking Tools using Python, Docker, Linux, Git, SQL,
+* Other skills: Network & Web App Pentesting, Active Directory, Developing Hacking Tools using Python, Docker, Linux, Git, SQL
 * Check Out Trident Security https://tridentsec.io/
 * I write CyberSecurity Articles on Medium https://sparshjazz.medium.com/
-* 🔗 [Website](https://sparshjazz.medium.com/z-e-u-s-c-y-b-e-r-s-e-c-5e6815cebd89).
+* 🔗 [MY WEBSITE](https://sparshjazz.medium.com/z-e-u-s-c-y-b-e-r-s-e-c-5e6815cebd89).
 
 <p align="center">
     <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
