@@ -5,12 +5,12 @@
 ## ⚡I'm a Penetration Tester in India currently pursuing OSCP
 
 * Research interests: information security, privacy, malware analysis
-* I make Cyber Security Videos on my YouTube Channel - ZeusCybersec
+* I make Cyber Security Videos on my YouTube Channel-ZeusCybersec
 * Main programming languages: C and Python.
-* Other skills: Network & Web App Pentesting, Active Directory, Developing Hacking Tools using Python, Docker, Linux, Git, SQL
+* Other skills: Network & Web-App Pentesting,Active Directory,Docker,Linux,Git,SQL
 * Check Out Trident Security https://tridentsec.io/
-* I write Cyber Security Articles on Medium https://sparshjazz.medium.com/
-* 🔗 [MY WEBSITE](https://sparshjazz.medium.com/z-e-u-s-c-y-b-e-r-s-e-c-5e6815cebd89).
+* I write InfoSec Articles on Medium https://sparshjazz.medium.com/
+* 🔗 [WEBSITE](https://sparshjazz.medium.com/z-e-u-s-c-y-b-e-r-s-e-c-5e6815cebd89).
 <p align="center">
     <a href="zeuscybersec@gmail.com"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://in.linkedin.com/in/sparsh-jaiswal-030b421a6"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/linkedin_logo.svg"></a>&nbsp;&nbsp;
