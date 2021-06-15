@@ -1,7 +1,7 @@
 ### Hi, I'm Sparsh.
-
 ### <img align="right" src="https://miro.medium.com/max/1280/1*xo3kWUaTGUruxLz6lpJppw.jpeg" height="250">
 ## ⚡I'm a Penetration Tester in India, pursuing OSCP 
+
 
 *  Research interests: information security, privacy, malware analysis
 * I make Cyber Security Videos on my YouTube Channel-ZeusCybersec
