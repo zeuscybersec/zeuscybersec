@@ -15,7 +15,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeuscybersec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sparsh_jaiswal_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCmTrctQOeYC58Q3lhoDq8oQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://sparshjazz.medium.com/)
 
 <p align="center">
-    <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="README.md/gmail_logo.svg"></a>&nbsp;&nbsp;
+    <a href="mailto:cristianmsbr@gmail.com"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/crhenr"><img height="35" src="imgs/linkedin_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://medium.com/@crhenr"><img height="35" src="imgs/medium_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/crhenr"><img height="35" src="imgs/twitter_logo.svg"></a>&nbsp;&nbsp;
