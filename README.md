@@ -1,13 +1,8 @@
+# I'am Sparsh,       
+
 ### <img align="right" src="https://miro.medium.com/max/1280/1*xo3kWUaTGUruxLz6lpJppw.jpeg" height="250"> 
-#
-# Hi, <a href="https://media.tenor.com/images/aa4e43903ed3a18b0becde322e105806/tenor.gif" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://media.tenor.com/images/aa4e43903ed3a18b0becde322e105806/tenor.gif" border="0" alt="Buy Me a Coffee at ko-fi.com" align="right"/></a>
 
-## I'am Sparsh,       
-
-
-#
-
-## ⚡I'm a Penetration Tester in India, pursuing OSCP 
+## ⚡I'm a Penetration Tester in India, pursuing OSCP  <a href="https://media.tenor.com/images/aa4e43903ed3a18b0becde322e105806/tenor.gif" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://media.tenor.com/images/aa4e43903ed3a18b0becde322e105806/tenor.gif" border="0" alt="Buy Me a Coffee at ko-fi.com" align="right"/></a>
     
 * Research interests: information security, privacy, malware analysis
 * I make Cyber Security Videos on my YouTube Channel-ZeusCybersec
