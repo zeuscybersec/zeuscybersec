@@ -11,10 +11,10 @@
 
 
 
-### Hi, I'am Zeus
-## ⚡I'm a Penetration Tester in India, pursuing OSCP 
 
-*  Research interests: information security, privacy, malware analysis
+## ⚡Hi, I'm Sparsh, a Penetration Tester in India, pursuing OSCP 
+
+* Research interests: information security, privacy, malware analysis
 * I make Cyber Security Videos on my YouTube Channel-ZeusCybersec
 * Main programming languages: C and Python.
 * Other skills: Network & Web-App Pentesting,Active Directory,Docker,Linux,Git,SQL
