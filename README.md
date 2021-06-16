@@ -12,7 +12,9 @@
 
 
 
-## ⚡Hi, I'm Sparsh, a Penetration Tester in India, pursuing OSCP 
+
+## Hi, I'am Sparsh,
+## ⚡I'm a Penetration Tester in India, pursuing OSCP 
 
 * Research interests: information security, privacy, malware analysis
 * I make Cyber Security Videos on my YouTube Channel-ZeusCybersec
