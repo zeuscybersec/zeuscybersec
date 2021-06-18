@@ -13,7 +13,7 @@
 * I write InfoSec Articles on Medium https://sparshjazz.medium.com/
 * 🔗 [WEBSITE](https://sparshjazz.medium.com/z-e-u-s-c-y-b-e-r-s-e-c-5e6815cebd89).
 <p align="center">
-    <a href="https://github.com/zeuscybersec"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
+    <a href=""><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/gmail_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/zeuscybersec"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/linkedin_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/zeuscybersec"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/medium_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/zeuscybersec"><img height="35" src="https://raw.githubusercontent.com/crhenr/crhenr/master/imgs/twitter_logo.svg"></a>&nbsp;&nbsp;
